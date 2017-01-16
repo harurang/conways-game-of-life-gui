@@ -1,0 +1,6 @@
+This program mimics Conway's Game of Life.
+The rules of the game can be found here: https://en.wikipedia.org/wiki/Conway's_Game_of_Life
+
+This program allows the user to save the state of the game by entering 's',
+load the previously saved state of the game by entering 'l' and begin
+the game by entering 'b'.
