@@ -4,6 +4,8 @@ import java.io.Serializable;
  * This class represents the Grid of the game.
  *
  * Skeleton of class was provided.
+ * getCountOfLiveNeighbors() and aliveNextRound() were initially provided.
+ * getCountOfLiveNeighbors() and aliveNextRound() were simplified.
  *
  * Grid implements Serializable because Grid will be written to a
  * file using Object Serialization
